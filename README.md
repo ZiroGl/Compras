@@ -73,6 +73,9 @@ Na tela principal, o usuário ira encontrar as caixinhas para marcar qual o prod
 
 <img src="https://github.com/user-attachments/assets/b4858f63-e4c9-40a2-9290-4e6da48671ed" width="260" height="500"/>
 
+# 📲 APK do APP 
+
+<a href="https://github.com/ZiroGl/Compras/blob/main/Compras.apk"> Download APK </a>
 
 # 📄 Licença
 
